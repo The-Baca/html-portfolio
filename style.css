@@ -1,6 +1,7 @@
-body{background:slategrey
+body{background:darkslategrey;
 }
-h1{text-transform:uppercase;
+h1{text-transform:capitalize;
+    text-align:center;
     font-size:3rem;
 }
 
@@ -12,6 +13,6 @@ h1{text-transform:uppercase;
         text-align: center;
     }
     .poster-img {
-        border: 5px solid white;
-        width: 100%;
+        border: 5px solid darkblue;
+        width: 80%;
     }
